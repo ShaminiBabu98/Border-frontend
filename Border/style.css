@@ -1,0 +1,17 @@
+body{
+    background-color:blanchedalmond;
+  }
+  
+  #img-div{
+  padding-top: 12%;
+  padding-left: 38%;
+  
+  }
+  
+  img{
+      height: 300px;
+      width: 300px;
+      border: 2px solid black;
+      border-radius: 150px;
+      
+    }
